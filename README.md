@@ -5,3 +5,5 @@ Testing GitHub Actions
 Another test
 
 Alpha test
+
+Beta test
